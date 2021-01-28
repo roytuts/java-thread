@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/difference-between-parallel-stream-and-completablefuture-in-java/
