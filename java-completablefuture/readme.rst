@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/completablefuture-in-java/
+You can go through the tutorial https://roytuts.com/completablefuture-in-java/
