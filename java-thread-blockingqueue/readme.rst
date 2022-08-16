@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/blockingqueue-in-java/
+Please follow the tutorial https://roytuts.com/blockingqueue-in-java/
