@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/how-deadlock-occurs-and-how-to-fix-it-in-java/
+Please follow the tutorial https://roytuts.com/how-deadlock-occurs-and-how-to-fix-it-in-java/
