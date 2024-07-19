@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/java-cyclicbarrier/
+Please follow the tutorial https://roytuts.com/java-cyclicbarrier/
