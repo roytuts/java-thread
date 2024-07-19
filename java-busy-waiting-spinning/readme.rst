@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/busy-waiting-or-spinning-in-java-multi-threading/
+Please follow the tutorial https://roytuts.com/busy-waiting-or-spinning-in-java-multi-threading/
