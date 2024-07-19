@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/how-fork-join-works-in-java-concurrency/
+Please follow the tutorial https://roytuts.com/how-fork-join-works-in-java-concurrency/
